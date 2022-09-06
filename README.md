@@ -1,5 +1,5 @@
-<hr>
 ```
+
 👋 Hi, I’m @PremKarki1996
 👀 I’m interested in Artificial Intelligence
 💞️ I’m looking to collaborate on Brain Machine Interface
@@ -12,9 +12,7 @@
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
+
 ```
-<hr>
-<!---
-PremKarki1996/PremKarki1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
